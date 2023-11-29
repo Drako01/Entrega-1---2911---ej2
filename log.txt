@@ -1,8 +1,14 @@
-commit c2b1da90624f79fbaa6780d8460198c1ee2f574e
+commit e30ebf8a8c20457ffda0215b163bc55c53eada75
 Author: Alejandro Di Stefano <addistefano@live.com.ar>
-Date:   Wed Nov 29 09:01:49 2023 -0300
+Date:   Wed Nov 29 09:08:27 2023 -0300
 
-    new commit main
+    final commit front-react
+
+commit bdaf61dad12e137cf230eede58ec794b047d5aa4
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:03:30 2023 -0300
+
+    initial commit front-react
 
 commit 6edd3f2d64c9c8f452821d43c253b51558153e87
 Author: Alejandro Di Stefano <addistefano@live.com.ar>
