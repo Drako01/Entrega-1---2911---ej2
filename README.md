@@ -38,3 +38,18 @@ lo agrego al repositorio y hago el commit correspondiente
 Genere un conflicto de mergin a proposito
 Ahora que lo arregle, hago el commit final del README.md
 
+----------------- Listo.! Todo resuelto
+
+Ahora que ya arregle todo y mergie a la rama main el proyecto de React, voy a 
+subir el repositorio a GitHub
+(Recordemos que la rama custom-navbar quedo en pausa y no esta mergiada a la rama main, 
+no se pidio en este esjercicio)
+
+Acabo de crear un repo en GitHub y voy a usar estos comandos para subirlo:
+	git remote add origin https://github.com/Drako01/Entrega-1---2911---ej2.git
+	git branch -M main
+	git push -u origin main
+
+Con esto termino el ejercicio.!!
+
+  
