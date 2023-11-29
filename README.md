@@ -21,3 +21,7 @@ Una vez eliminado el archivo status.js
 
 Creo la Rama front-react con git branch front-react y accedo a ella con
 git checkout front-react
+
+
+--- Ahora en la Rama main hago un git merge front-react
+para traer todos los cambios a la rama main
