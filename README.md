@@ -13,3 +13,6 @@ y antes de hacer el commit, pausarlo con git stash
 
 para ir a la Rama main y eliminar el archivo status.js
 
+
+Me cambio a la rama main usando git checkout main
+---- Ya en la rama main, procedo a eliminar el archivo status.js usando git rm status.js
