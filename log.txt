@@ -1,3 +1,22 @@
+commit 7274a426d26ffbbe09f83741b41dfa3968aa6c59
+Merge: a33c36f ae12b72
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:12:16 2023 -0300
+
+    final commit main
+
+commit a33c36fa6fa5638b842e28f9d438e755140aee89
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:11:03 2023 -0300
+
+    final commit main
+
+commit ae12b727736ad27b6342ffb1d683d1126c4c1a16
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:08:37 2023 -0300
+
+    final commit front-react
+
 commit e30ebf8a8c20457ffda0215b163bc55c53eada75
 Author: Alejandro Di Stefano <addistefano@live.com.ar>
 Date:   Wed Nov 29 09:08:27 2023 -0300
@@ -9,6 +28,12 @@ Author: Alejandro Di Stefano <addistefano@live.com.ar>
 Date:   Wed Nov 29 09:03:30 2023 -0300
 
     initial commit front-react
+
+commit c2b1da90624f79fbaa6780d8460198c1ee2f574e
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:01:49 2023 -0300
+
+    new commit main
 
 commit 6edd3f2d64c9c8f452821d43c253b51558153e87
 Author: Alejandro Di Stefano <addistefano@live.com.ar>
