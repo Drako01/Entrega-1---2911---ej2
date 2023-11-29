@@ -1,3 +1,33 @@
+commit e30ebf8a8c20457ffda0215b163bc55c53eada75
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:08:27 2023 -0300
+
+    final commit front-react
+
+commit bdaf61dad12e137cf230eede58ec794b047d5aa4
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 09:03:30 2023 -0300
+
+    initial commit front-react
+
+commit 6edd3f2d64c9c8f452821d43c253b51558153e87
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 08:59:35 2023 -0300
+
+    new commit main
+
+commit 9a0c7d1687e0ccbdca00b17f216ff8b8796e9cb9
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 08:58:55 2023 -0300
+
+    Eliminar archivo status.js en el branch main
+
+commit 0ec2b2de5f443dbf3af521a1613e17d83da49d20
+Author: Alejandro Di Stefano <addistefano@live.com.ar>
+Date:   Wed Nov 29 08:57:56 2023 -0300
+
+    status.js commit main
+
 commit 0b0a5bed884cca384b550078c4b9d9f7fc20ec4d
 Author: Alejandro Di Stefano <addistefano@live.com.ar>
 Date:   Wed Nov 29 08:48:56 2023 -0300
