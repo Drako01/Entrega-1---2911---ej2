@@ -1,0 +1,1 @@
+//Este es un script para el proyecto de React

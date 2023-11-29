@@ -16,3 +16,10 @@ para ir a la Rama main y eliminar el archivo status.js
 
 Me cambio a la rama main usando git checkout main
 ---- Ya en la rama main, procedo a eliminar el archivo status.js usando git rm status.js
+
+
+---Ahora, una vez creada la rama front-react y accedido a ella
+
+Trabajo sobre el proyecto React.js
+lo agrego al repositorio y hago el commit correspondiente
+
